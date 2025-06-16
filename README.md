@@ -1,7 +1,10 @@
 ## Hi there, I'm Tofa 👋
 
 - 🔭 Computer Science student at Southern Miss
-- 🌱 I’m looking to collaborate and work on cleaning and organizing data
+- 🌱 I’m looking to collaborate and work on cleaning and organizing data  
+- ⚙️ Focus areas: **Data Analysis**, **Software Engineering**, and **High Performance Computing**.
+- 🏢 **Vice-President @ USM NSBE**, promoting community and leadership on campus. 
+- 🎮 In my free time: **Soccer** and **Wikipedia**.  
 
 
 # 💻 Tech Stack:
